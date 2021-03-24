@@ -1,0 +1,1 @@
+images, PDFs, and any additional files are kept here
