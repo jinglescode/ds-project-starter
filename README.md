@@ -36,3 +36,9 @@ As it is impossible to create a single template that will meet the needs of ever
 - [Jingles](https://github.com/jinglescode)
 
 *(Here you want to add other major contributors, such as your team mates)*
+
+## Contribute
+
+After you have finished this DS project, and you think you would like to help future students by "upgrading" this repo, so they have better starter kit, feel free to do a [pull request](https://docs.github.com/articles/using-pull-requests).
+
+*(This part is optional, where you can tell others how they could improve your repo. For example, if they built a new model, or if they found some mistakes in the codes.)*
